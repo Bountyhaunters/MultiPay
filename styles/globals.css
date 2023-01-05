@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hero-container {
+  background-image: url("/black-bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
